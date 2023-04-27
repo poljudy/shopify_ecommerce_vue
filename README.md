@@ -27,7 +27,7 @@
 
 ![App Screenshot](https://i.ibb.co/JpMFDMh/Screen-Shot-2023-04-27-at-2-39-29-PM.png)
 
-I created this e-commerce app to practice my skills on using Vue state management library `Vuex` and its router `Vue-Router` for passing route params to other views. <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+I created this e-commerce app to practice my skills on using Vue state management library `Vuex` and its router `Vue-Router` for passing route params to other views. <a href="https://vue-ecommerce-one.vercel.app/">View Demo</a>
 
 ## Build With
 * [![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
