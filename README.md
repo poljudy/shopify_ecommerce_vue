@@ -58,7 +58,7 @@ This is an example of how to list things you need to use the software and how to
 Clone the project
 
 ```sh
-  git clone https://github.com/MarcoSardido/Vue-Ecommerce.git
+  git clone https://github.com/poljudy/shopify_ecommerce_vue.git
 ```
 
 Go to the project directory
